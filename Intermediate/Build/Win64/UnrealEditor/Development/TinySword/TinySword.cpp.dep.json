@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hayeo\\onedrive\\documents\\unreal projects\\tinysword\\source\\tinysword\\tinysword.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hayeo\\onedrive\\documents\\unreal projects\\tinysword\\intermediate\\build\\win64\\tinyswordeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\hayeo\\onedrive\\documents\\unreal projects\\tinysword\\intermediate\\build\\win64\\unrealeditor\\development\\tinysword\\definitions.tinysword.h",
+            "c:\\users\\hayeo\\onedrive\\documents\\unreal projects\\tinysword\\source\\tinysword\\tinysword.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

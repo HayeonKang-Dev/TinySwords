@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TinySword.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\TinySwordEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\UnrealEditor\Development\TinySword\TinySword.init.gen.cpp.obj"
+"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\UnrealEditor\Development\TinySword\TinySwordGameModeBase.gen.cpp.obj"
+"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\UnrealEditor\Development\TinySword\TinySword.cpp.obj"
+"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\UnrealEditor\Development\TinySword\TinySwordGameModeBase.cpp.obj"
+"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\UnrealEditor\Development\TinySword\Default.rc2.res"
+/OUT:"C:\Users\hayeo\OneDrive\Documents\Unreal Projects\TinySword\Intermediate\Build\Win64\UnrealEditor\Development\TinySword\UnrealEditor-TinySword.lib"

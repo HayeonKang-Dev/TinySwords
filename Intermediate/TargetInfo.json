@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TinySword",
+			"Path": "C:\\Users\\hayeo\\OneDrive\\Documents\\Unreal Projects\\TinySword\\Source\\TinySword.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TinySwordEditor",
+			"Path": "C:\\Users\\hayeo\\OneDrive\\Documents\\Unreal Projects\\TinySword\\Source\\TinySwordEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
